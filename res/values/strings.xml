@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--  Main  -->
+    <string name="app_name">MP3 Pobierane</string>
+    <string name="market_url">com.euroasiamp3.pl</string>
+    <string name="footer_message">Korzystasz z wersji 1.0.6 programu</string>
+    
+    <!-- EULA -->
+    <string name="eula">
+        Oficjalnie dopuszczalne korzystanie z niniejszego oprogramowania ograniczone jest wyłącznie do plików dźwiękowych darmowo udostępnionych w publicznych zasobach! Zgadzasz się na korzystanie z niniejszego oprogramowania zgodnie z regulacjami prawnymi obowiązującymi w twoim kraju zamieszkania, a także regulaminów platformy Google Android Market i twojego operatora. Oprogramowanie jest tylko interfejsem pomagającym w korzystaniu z publicznie dostępnych wyszukiwarek, a EuroAsia Singapore nie odpowiada za przypadki wykorzystania niezgodnie z przeznaczeniem. Nielegalne wykorzystywanie niniejszego narzędzia jest surowo wzbronione. Użytkownik jest jedynym podmiotem odpowiedzialnym za swoje działanie.
+    </string>
+    
+    <!-- Free Apps & Offers Settings -->
+    <string name="btn_offers_name">Oglądaj filmy</string>
+	<string name="topappsurl">http://freemp3musicdownload.mobi/videos/</string> <!-- For Free App Offers -->
+	
+	<!-- Ad Mobs Banner Ads ID -->
+	<string name="admobBID">a1509c754789a61</string>
+	
+<!--  Languages -->
+    <!-- Content Descriptions -->
+    <string name="logo_icon_desc">Home Button</string>
+    <string name="action_search_desc">Search Button</string>
+    
+    <!-- Buttons -->
+    <string name="btn_search_name">Szukaj</string>
+    <string name="btn_topten_name">Najlepsze utwory</string>
+    <string name="btn_downloads_name">Pobierane</string>
+    <string name="btn_rate_name">Oceń aplikację</string>
+    <string name="btn_share_name">Udostępnij</string>
+    <string name="btn_cancel_name">Anuluj</string>
+    <string name="download_song">Pobierz utwór</string>
+    <string name="share_song">Podziel się utworem</string>
+    
+    <!-- Edit Texts -->
+    <string name="edittext_search_hint">Wpisz utwór lub wykonawcę</string>
+    
+    <!-- Names -->
+    <string name="no_results">Nie zwrócono żadnych wyników</string>
+    <string name="error_results">Błąd przy ładowaniu wyników</string>
+    <string name="no_active">Wygląda na to, że nie posiadasz działającego połączenia internetowego, lub sygnał połączenia jest słaby. Uruchom sieć lub włącz przekaz danych i spróbuj ponownie.</string>
+    
+    <!-- Share Language -->
+    <string name="checkout">Sprawdź ten utwór</string>
+    <string name="dlmessage">Hej, ściągnij ten utwór :)</string>
+    
+    <!-- Toast Make -->
+    <string name="failedloading">Ładowanie utworu zakończone niepowodzeniem. Spróbuj ponownie.</string>
+    <string name="addedqueue">Dodano do kolejki pobierania</string>
+</resources>
